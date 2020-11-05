@@ -354,9 +354,9 @@
     <module>core</module>
     <module>core12</module>
     <module>core20</module>
-    <module>core21</module>
+    <!--module>core21</module>
     <module>examples</module>
-    <module>sandbox</module>
+    <module>sandbox</module-->
   </modules>
 
   <properties>
